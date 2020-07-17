@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Hakan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hakanucaar&show_icons=true)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
