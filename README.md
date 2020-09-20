@@ -1,8 +1,12 @@
 ### Hi there 👋
 
+
+
 ![Hakan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hakanucaar&show_icons=true)
+<img align="right" src="https://github.com/HakanUcaar/hakanucaar/blob/master/img/12.gif" />
 
 Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -17,3 +21,4 @@ Here are some ideas to get you started:
 <img src="https://github.com/github/explore/blob/master/topics/csharp/csharp.png?raw=true" height="32"/><img src="https://github.com/github/explore/blob/master/topics/aspnet/aspnet.png?raw=true" height="32"/><img src="https://github.com/github/explore/blob/master/topics/dotnet/dotnet.png?raw=true" height="32"/><img src="https://github.com/github/explore/blob/master/topics/nuget/nuget.png?raw=true" height="32"/><img src="https://github.com/github/explore/blob/master/topics/electron/electron.png?raw=true" height="32"/>
 <img src="https://github.com/github/explore/blob/master/topics/javascript/javascript.png?raw=true" height="32"/><img src="https://github.com/github/explore/blob/master/topics/nodejs/nodejs.png?raw=true" height="32"/><img src="https://github.com/github/explore/blob/master/topics/react/react.png?raw=true" height="32"/><img src="https://github.com/github/explore/blob/master/topics/redux/redux.png?raw=true" height="32"/>
 <img src="https://github.com/github/explore/blob/master/topics/arduino/arduino.png?raw=true" height="32"/><img src="https://github.com/github/explore/blob/master/topics/raspberry-pi/raspberry-pi.png?raw=true" height="32"/><img src="https://github.com/github/explore/blob/master/topics/github/github.png?raw=true" height="32"/><img src="https://github.com/github/explore/blob/master/topics/sql/sql.png?raw=true" height="32"/>
+ 
